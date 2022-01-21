@@ -11,14 +11,14 @@
     height: 400p;
     color: #f9faf8;
     padding: 8px;
-    background-image: url(./image/bokeh-g98cb8ebbf_1920.jpg);
+    background-image: url(./bokeh-g98cb8ebbf_1920.jpg);
     object-fit: fill;
 }
 
 .image{
     width: 1100px;
     height: 400px;
-    background-image: url(./image/umbrellas-g6f4a87ac8_1920.jpg);
+    background-image: url(./umbrellas-g6f4a87ac8_1920.jpg);
     background-size: 1100px,400px;
     border-radius: 16px;
     box-shadow: 2px 2px 2px 2px lightpink;
